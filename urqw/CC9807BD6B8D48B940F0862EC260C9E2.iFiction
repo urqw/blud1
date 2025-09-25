@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>CC9807BD6B8D48B940F0862EC260C9E2</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Хроники капитана Блуда: Тайна левой ягодицы</title>
+			<author>Юрий Павленко (Goraph)</author>
+			<language>ru</language>
+			<firstpublished>2004-11-15</firstpublished>
+			<genre>Юмор</genre>
+			<group>URQ</group>
+			<description>Всё началось в один прекрасный день, когда, будучи крайне стеснённым в средствах, и не имеющий желания тяжело и много работать, я решил стать личным биографом капитана Блуда. Как, вы не слышали о капитане Блуде?</description>
+			<series>Хроники капитана Блуда</series>
+			<seriesnumber>1</seriesnumber>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#blud1</url>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-24</originated>
+		</colophon>
+	</story>
+</ifindex>
